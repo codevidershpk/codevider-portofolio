@@ -1,12 +1,31 @@
 {
   "project1" : {
     "id": "1",   
+    "title": "Example title",   
+    "description": "Web Application",   
+    "category": "Web Application",   
+    "img": "1",   
+    "startDate": "00/00/0000",   
+    "endDate": "00/00/0000",   
+    
   }, 
   "project2" : {
     "id": "2",   
+    "title": "Example title",   
+    "description": "Web Application",   
+    "category": "Web Application",   
+    "img": "1",   
+    "startDate": "00/00/0000",   
+    "endDate": "00/00/0000",   
   }, 
   "project3" : {
     "id": "3",   
+    "title": "Example title",   
+    "description": "Web Application",   
+    "category": "Web Application",   
+    "img": "1",   
+    "startDate": "00/00/0000",   
+    "endDate": "00/00/0000",   
   }, 
 
 }
