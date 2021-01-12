@@ -1,6 +1,6 @@
 {
  "project": [
-  "project1": {
+  {
     "id": "1",   
     "title": "Example title",   
     "description": "Web Application",   
@@ -9,7 +9,7 @@
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
-  "project1": {
+  {
     "id": "2",   
     "title": "Example title",   
     "description": "Web Application",   
@@ -18,7 +18,7 @@
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
-  "project1": {
+  {
     "id": "3",   
     "title": "Example title",   
     "description": "Web Application",   
