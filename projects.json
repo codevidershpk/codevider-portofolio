@@ -3,6 +3,7 @@
   {
     "id": "1",   
     "title": "Example title 1",   
+    "client": "Project Client",   
     "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
     "category":[
       "Web Application",
@@ -53,7 +54,8 @@
   },
   {
     "id": "2",   
-    "title": "Example title 2",   
+    "title": "Example title 2",
+    "client": "Project Client",     
     "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
     "category":[
        "Web Application",
@@ -105,6 +107,7 @@
   {
     "id": "3",   
     "title": "Example title 3",   
+    "client": "Project Client",   
     "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
     "category":[
        "Web Application",
@@ -142,7 +145,8 @@
   },
   {
     "id": "4",   
-    "title": " title 4 ",   
+    "title": " title 4 ",  
+    "client": "Project Client",    
     "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
     "category":[    
        "Web Application",
@@ -191,7 +195,8 @@
   },
   {
     "id": "5",   
-    "title": " title 5 ",   
+    "title": " title 5 ", 
+    "client": "Project Client",     
     "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
     "category": [
        "Web Application",
@@ -240,6 +245,7 @@
   {
     "id": "6",   
     "title": " title 6",   
+    "client": "Project Client",   
     "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
     "category":[
       "Web Application",
@@ -277,6 +283,7 @@
   {
     "id": "7",   
     "title": " title 7",   
+    "client": "Project Client",   
     "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
     "category":[
        "Web Application",
@@ -319,6 +326,7 @@
   {
     "id": "8",   
     "title": " title 8",   
+    "client": "Project Client",   
     "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
     "category":[
        "Web Application",
@@ -367,6 +375,7 @@
   {
     "id": "9",   
     "title": " title 9",   
+    "client": "Project Client",   
     "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
     "category":[
        "Web Application",
@@ -416,7 +425,8 @@
   },
   {
     "id": "10",   
-    "title": " title 10",   
+    "title": " title 10",  
+    "client": "Project Client",    
     "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
     "category":[
        "Web Application",
@@ -467,7 +477,8 @@
   },
   {
     "id": "11",   
-    "title": " title 11",   
+    "title": " title 11", 
+    "client": "Project Client",     
     "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
     "category":[
        "Web Application",
