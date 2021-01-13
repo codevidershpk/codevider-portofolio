@@ -14,16 +14,15 @@
       "img1": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
       "img2": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light.jpg",
       "img3": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light4.jpg",
-      "img4": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-testimonial-light.jpg",
-     }
-    ,   
+      "img4": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-testimonial-light.jpg"
+     },   
    "team": 
    {
       "member1": "Genci ",
       "member2": "Pasho Toska",
       "member3": "Redi",
       "member4": "Juli", 
-      "member4": "Xhuio" 
+      "member5": "Xhuio" 
     },
     "skills": 
    {
@@ -58,7 +57,7 @@
       "member2": "Pasho Toska",
       "member3": "Redi",
       "member4": "Juli", 
-      "member4": "Xhuio" 
+      "member5": "Xhuio" 
     },
     "skills": 
    {
@@ -92,7 +91,7 @@
       "member2": "Pasho Toska",
       "member3": "Redi",
       "member4": "Juli", 
-      "member4": "Xhuio" 
+      "member5": "Xhuio" 
     },
     "skills": 
    {
@@ -125,7 +124,7 @@
       "member2": "Pasho Toska",
       "member3": "Redi",
       "member4": "Juli", 
-      "member4": "Xhuio" 
+      "member5": "Xhuio" 
     },
     "skills": 
    {
@@ -158,7 +157,7 @@
       "member2": "Pasho Toska",
       "member3": "Redi",
       "member4": "Juli", 
-      "member4": "Xhuio" 
+      "member5": "Xhuio" 
     },
     "skills": 
    {
@@ -191,7 +190,7 @@
       "member2": "Pasho Toska",
       "member3": "Redi",
       "member4": "Juli", 
-      "member4": "Xhuio" 
+      "member5": "Xhuio" 
     },
     "skills": 
    {
@@ -199,7 +198,7 @@
       "skill2": "Django",
       "skill3": "Node.js",
       "skill4": "PHP"
-   },,   
+   },
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
@@ -225,7 +224,7 @@
       "member2": "Pasho Toska",
       "member3": "Redi",
       "member4": "Juli", 
-      "member4": "Xhuio" 
+      "member5": "Xhuio" 
     },
     "skills": 
      {
@@ -257,7 +256,7 @@
       "member2": "Pasho Toska",
       "member3": "Redi",
       "member4": "Juli", 
-      "member4": "Xhuio" 
+      "member5": "Xhuio" 
     },
     "skills": 
    {
@@ -291,7 +290,7 @@
       "member2": "Pasho Toska",
       "member3": "Redi",
       "member4": "Juli", 
-      "member4": "Xhuio" 
+      "member5": "Xhuio" 
     },
     "skills": 
      {
@@ -326,7 +325,7 @@
       "member2": "Pasho Toska",
       "member3": "Redi",
       "member4": "Juli", 
-      "member4": "Xhuio" 
+      "member5": "Xhuio" 
     },
     "skills": 
    {
@@ -359,7 +358,7 @@
       "member2": "Pasho Toska",
       "member3": "Redi",
       "member4": "Juli", 
-      "member4": "Xhuio" 
+      "member5": "Xhuio" 
     },
     "skills": 
    {
