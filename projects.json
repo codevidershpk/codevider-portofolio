@@ -4,33 +4,33 @@
     "id": "1",   
     "title": "Example title 1",   
     "description": "Web Application",   
-    "category": {
-     "cat1":"Web Application",
-     "cat2":"Web Application",
-     "cat3":"Web Application"
-    },   
+    "category":[
+      "Web Application",
+      "Web Application",
+      "Web Application"
+    ],   
     "img": 
-     {
+     [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light.jpg",
-      "img3": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light4.jpg",
-      "img4": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-testimonial-light.jpg"
-     },   
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light4.jpg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-testimonial-light.jpg"
+     ],   
    "team": 
-   {
-      "member1": "Genci ",
-      "member2": "Pasho Toska",
-      "member3": "Redi",
-      "member4": "Juli", 
-      "member5": "Xhuio" 
-    },
+   [
+       "Genci ",
+       "Pasho Toska",
+       "Redi",
+       "Juli", 
+       "Xhuio" 
+   ],
     "skills": 
-   {
-      "skill1": "React",
-      "skill2": "Django",
-      "skill3": "Node.js",
-      "skill4": "PHP"
-   },
+   [
+       "React",
+       "Django",
+       "Node.js",
+       "PHP"
+   ],
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
@@ -38,34 +38,34 @@
     "id": "2",   
     "title": "Example title 2",   
     "description": "Web Application",   
-    "category": {
-     "cat1":"Web Application",
-     "cat2":"Web Application",
-     "cat3":"Web Application"
-    },    
+    "category":[
+      "Web Application",
+      "Web Application",
+      "Web Application"
+    ],    
     "img": 
-     {
+     [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project2/bottom_pen.png",
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project2/bottom_right.png",
-      "img3": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project2/codevider_cover.svg",
-      "img4": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project2/gallery-flat1.jpg"
-     }
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project2/codevider_cover.svg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project2/gallery-flat1.jpg"
+     ]
     ,   
    "team": 
-   {
-      "member1": "Genci ",
-      "member2": "Pasho Toska",
-      "member3": "Redi",
-      "member4": "Juli", 
-      "member5": "Xhuio" 
-    },
+   [
+       "Genci ",
+       "Pasho Toska",
+       "Redi",
+       "Juli", 
+      "Xhuio" 
+   ],
     "skills": 
-   {
-      "skill1": "React",
-      "skill2": "Django",
-      "skill3": "Node.js",
-      "skill4": "PHP"
-   },  
+   [
+       "React",
+       "Django",
+       "Node.js",
+       "PHP"
+   ],  
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
@@ -73,33 +73,33 @@
     "id": "3",   
     "title": "Example title 3",   
     "description": "Web Application",   
-    "category": {
-     "cat1":"Web Application",
-     "cat2":"Web Application",
-     "cat3":"Web Application"
-    }, 
+    "category":[
+      "Web Application",
+      "Web Application",
+      "Web Application"
+    ], 
    "img": 
-     {
+     [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project3/header_edding.png",
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project3/gallery-flat5.jpg",
-      "img3": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project3/gallery-flat3.jpg"
-     }
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project3/gallery-flat3.jpg"
+     ]
     ,   
    "team": 
-   {
-      "member1": "Genci ",
-      "member2": "Pasho Toska",
-      "member3": "Redi",
-      "member4": "Juli", 
-      "member5": "Xhuio" 
-    },
+   [
+       "Genci ",
+      "Pasho Toska",
+       "Redi",
+       "Juli", 
+      "Xhuio" 
+   ],
     "skills": 
-   {
-      "skill1": "React",
-      "skill2": "Django",
-      "skill3": "Node.js",
-      "skill4": "PHP"
-   },   
+   [
+       "React",
+       "Django",
+       "Node.js",
+       "PHP"
+   ],   
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
@@ -107,32 +107,32 @@
     "id": "4",   
     "title": " title 4 ",   
     "description": "Web Application",   
-    "category": {
-     "cat1":"Web Application",
-     "cat2":"Web Application",
-     "cat3":"Web Application"
-    },   
+    "category":[    
+      "Web Application",
+      "Web Application",
+      "Web Application"
+    ],   
     "img": 
-     {
+     [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/logo-1 .png",
-      "img3": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/header_marker.png"
-     },   
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/header_marker.png"
+     ],   
    "team": 
-   {
-      "member1": "Genci ",
-      "member2": "Pasho Toska",
-      "member3": "Redi",
-      "member4": "Juli", 
-      "member5": "Xhuio" 
-    },
+   [
+       "Genci ",
+       "Pasho Toska",
+       "Redi",
+      "Juli", 
+       "Xhuio" 
+   ],
     "skills": 
-   {
-      "skill1": "React",
-      "skill2": "Django",
-      "skill3": "Node.js",
-      "skill4": "PHP"
-   },     
+   [
+      "React",
+       "Django",
+       "Node.js",
+       "PHP"
+   ],     
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
@@ -140,32 +140,31 @@
     "id": "5",   
     "title": " title 5 ",   
     "description": "Web Application",   
-    "category": {
-     "cat1":"Web Application",
-     "cat2":"Web Application",
-     "cat3":"Web Application"
-    },   
+    "category": [
+      "Web Application",
+      "Web Application",
+      "Web Application"
+      ],   
     "img": 
-     {
+     [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project5/logo-3.png",
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project5/logo-4.png",
-      "img3": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project5/logo-dark.png"
-     },   
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project5/logo-dark.png"
+     ],   
    "team": 
-   {
-      "member1": "Genci ",
-      "member2": "Pasho Toska",
-      "member3": "Redi",
-      "member4": "Juli", 
-      "member5": "Xhuio" 
-    },
+   [
+      "Genci ",
+       "Pasho Toska",
+       "Redi",
+       "Juli", 
+       "Xhuio" 
+   ],
     "skills": 
-   {
-      "skill1": "React",
-      "skill2": "Django",
-      "skill3": "Node.js",
-      "skill4": "PHP"
-   },   
+   [ "React",
+      "Django",
+      "Node.js",
+     "PHP"
+   ],   
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
@@ -173,32 +172,32 @@
     "id": "6",   
     "title": " title 6",   
     "description": "Web Application",   
-    "category": {
-     "cat1":"Web Application",
-     "cat2":"Web Application",
-     "cat3":"Web Application"
-    },   
+    "category":[
+    "Web Application",
+    "Web Application",
+    "Web Application"
+  ],   
     "img": 
-     {
+     [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project6/favicon.png",
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project6/home_bg-01.jpg",
-      "img3": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project6/logo-5.png"
-     },   
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project6/logo-5.png"
+     ],   
    "team": 
-   {
-      "member1": "Genci ",
-      "member2": "Pasho Toska",
-      "member3": "Redi",
-      "member4": "Juli", 
-      "member5": "Xhuio" 
-    },
+   [
+       "Genci ",
+       "Pasho Toska",
+       "Redi",
+       "Juli", 
+       "Xhuio" 
+   ],
     "skills": 
-   {
-      "skill1": "React",
-      "skill2": "Django",
-      "skill3": "Node.js",
-      "skill4": "PHP"
-   },
+   [
+       "React",
+       "Django",
+       "Node.js",
+       "PHP"
+ ],
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
@@ -206,33 +205,33 @@
     "id": "7",   
     "title": " title 7",   
     "description": "Web Application",   
-    "category": {
-     "cat1":"Web Application",
-     "cat2":"Web Application",
-     "cat3":"Web Application"
-    },   
+    "category":[
+      "Web Application",
+      "Web Application",
+      "Web Application"
+    ],   
     "img": 
-     {
-       "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/Pasho.jpg",
-       "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/logo-dark.svg",
-      "img3": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/page-header.jpg",
-      "img4": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/responsive.png"
-     },   
+     [
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/Pasho.jpg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/logo-dark.svg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/page-header.jpg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/responsive.png"
+     ],   
    "team": 
-    {
-      "member1": "Genci ",
-      "member2": "Pasho Toska",
-      "member3": "Redi",
-      "member4": "Juli", 
-      "member5": "Xhuio" 
-    },
+    [
+      "Genci ",
+       "Pasho Toska",
+       "Redi",
+       "Juli", 
+       "Xhuio" 
+    ],
     "skills": 
-     {
-        "skill1": "React",
-        "skill2": "Django",
-        "skill3": "Node.js",
-        "skill4": "PHP"
-     },      
+     [
+        "React",
+         "Django",
+         "Node.js",
+        "PHP"
+     ],      
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
@@ -240,31 +239,31 @@
     "id": "8",   
     "title": " title 8",   
     "description": "Web Application",   
-    "category": {
-    "cat1":"Web Application",
-     "cat2":"Web Application",
-     "cat3":"Web Application"
-    },
+    "category":[
+    "Web Application",
+    "Web Application",
+    "Web Application"
+  ],
     "img": 
-     {
+     [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project8/Preloader_3.gif",
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project8/papers.png"
-     },   
+     ],   
    "team": 
-   {
-      "member1": "Genci ",
-      "member2": "Pasho Toska",
-      "member3": "Redi",
-      "member4": "Juli", 
-      "member5": "Xhuio" 
-    },
+   [
+       "Genci ",
+       "Pasho Toska",
+       "Redi",
+       "Juli", 
+       "Xhuio" 
+   ],
     "skills": 
-   {
-      "skill1": "React",
-      "skill2": "Django",
-      "skill3": "Node.js",
-      "skill4": "PHP"
-   },   
+   [
+       "React",
+       "Django",
+       "Node.js",
+       "PHP"
+   ],   
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
@@ -272,33 +271,33 @@
     "id": "9",   
     "title": " title 9",   
     "description": "Web Application",   
-    "category": {
-     "cat1":"Web Application",
-     "cat2":"Web Application",
-     "cat3":"Web Application"
-    },   
+    "category":[
+      "Web Application",
+      "Web Application",
+      "Web Application"
+    ],   
     "img": 
-     {
+     [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project9/gallery-flat2.jpg",
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project9/split-blog.jpg",
-      "img3": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project9/split-img2.jpg",
-      "img4": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project9/team-3.jpg"
-     },   
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project9/split-img2.jpg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project9/team-3.jpg"
+     ],   
    "team": 
-    {
-      "member1": "Genci ",
-      "member2": "Pasho Toska",
-      "member3": "Redi",
-      "member4": "Juli", 
-      "member5": "Xhuio" 
-    },
+    [
+       "Genci ",
+       "Pasho Toska",
+      "Redi",
+       "Juli", 
+      "Xhuio" 
+    ],
     "skills": 
-     {
-        "skill1": "React",
-        "skill2": "Django",
-        "skill3": "Node.js",
-        "skill4": "PHP"
-     },      
+     [
+        "React",
+        "Django",
+        "Node.js",
+         "PHP"
+     ],      
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
@@ -306,34 +305,33 @@
     "id": "10",   
     "title": " title 10",   
     "description": "Web Application",   
-    "category": {
-     "cat1":"Web Application",
-     "cat2":"Web Application",
-     "cat3":"Web Application"
-    },  
+    "category":[
+    "Web Application",
+    "Web Application",
+    "Web Application"
+  ],  
     "img": 
-     {
+     [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project10/Ervin.jpg",
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project10/logo-2.png",
-      "img3": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project10/photo_about_us.jpg",
-      "img4": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project10/split-img1.jpg",
-      "img5": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project10/team-4.jpg"
-     },   
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project10/photo_about_us.jpg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project10/split-img1.jpg",
+       "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project10/team-4.jpg"
+     ],   
    "team": 
-   {
-      "member1": "Genci ",
-      "member2": "Pasho Toska",
-      "member3": "Redi",
-      "member4": "Juli", 
-      "member5": "Xhuio" 
-    },
+   [
+      "Genci ",
+      "Pasho Toska",
+       "Redi",
+       "Juli", 
+      "Xhuio" 
+   ],
     "skills": 
-   {
-      "skill1": "React",
-      "skill2": "Django",
-      "skill3": "Node.js",
-      "skill4": "PHP"
-   },   
+   [ "React",
+      "Django",
+       "Node.js",
+       "PHP"
+   ],   
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
@@ -341,16 +339,16 @@
     "id": "11",   
     "title": " title 11",   
     "description": "Web Application",   
-    "category": {
-     "cat1":"Web Application",
-     "cat2":"Web Application",
-     "cat3":"Web Application"
-    },   
+    "category":[
+    "Web Application",
+    "Web Application",
+    "Web Application"
+  ],   
     "img": 
      [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project11/team-6 (1).jpg",
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project11/team-6.jpg",
-      "img3": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project11/testimonial-2.jpg"
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project11/testimonial-2.jpg"
      ],   
    "team": 
   [
