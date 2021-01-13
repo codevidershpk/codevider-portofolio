@@ -19,7 +19,7 @@
    "team": 
     [
       {
-        "name": "Genci ",
+        "name": "Genci Likaj",
         "role": "Developer"
       },
       {
@@ -27,15 +27,15 @@
         "role": "Developer"
       },
       {
-        "name": "Juli ",
+        "name": "Jul Kreshpaj ",
         "role": "Developer"
       },
       {
-        "name": "Juli ",
+        "name": "Redi Bello",
         "role": "Developer"
       },
       {
-        "name": "Xhulio ",
+        "name": "Xhulio Balli",
         "role": "Developer"
       }
 
@@ -71,7 +71,7 @@
     "team": 
     [
       {
-        "name": "Genci ",
+        "name": "Genci Likaj",
         "role": "Developer"
       },
       {
@@ -79,17 +79,17 @@
         "role": "Developer"
       },
       {
-        "name": "Juli ",
+        "name": "Jul Kreshpaj ",
         "role": "Developer"
       },
       {
-        "name": "Juli ",
+        "name": "Redi Bello",
         "role": "Developer"
       },
       {
-        "name": "Xhulio ",
+        "name": "Xhulio Balli",
         "role": "Developer"
-      } 
+      }
     ],
     "skills": 
     [
@@ -121,24 +121,12 @@
    "team": 
    [
     {
-      "name": "Genci ",
-      "role": "Developer"
-    },
-    {
       "name":  "Pasho Toska",
-      "role": "Developer"
+      "role": "PHP/Plugin Developer"
     },
     {
-      "name": "Juli ",
-      "role": "Developer"
-    },
-    {
-      "name": "Juli ",
-      "role": "Developer"
-    },
-    {
-      "name": "Xhulio ",
-      "role": "Developer"
+      "name": "Xhentila Dautaj ",
+      "role": "Wordpress Developer"
     }
    ],
     "skills": 
@@ -170,7 +158,7 @@
    "team": 
    [
     {
-      "name": "Genci ",
+      "name": "Genci Likaj",
       "role": "Developer"
     },
     {
@@ -178,15 +166,15 @@
       "role": "Developer"
     },
     {
-      "name": "Juli ",
+      "name": "Jul Kreshpaj ",
       "role": "Developer"
     },
     {
-      "name": "Juli ",
+      "name": "Redi Bello",
       "role": "Developer"
     },
     {
-      "name": "Xhulio ",
+      "name": "Xhulio Balli",
       "role": "Developer"
     }
    ],
@@ -219,7 +207,7 @@
    "team": 
    [
     {
-      "name": "Genci ",
+      "name": "Genci Likaj",
       "role": "Developer"
     },
     {
@@ -227,15 +215,15 @@
       "role": "Developer"
     },
     {
-      "name": "Juli ",
+      "name": "Jul Kreshpaj ",
       "role": "Developer"
     },
     {
-      "name": "Juli ",
+      "name": "Redi Bello",
       "role": "Developer"
     },
     {
-      "name": "Xhulio ",
+      "name": "Xhulio Balli",
       "role": "Developer"
     }
    ],
@@ -267,23 +255,11 @@
    "team": 
    [
     {
-      "name": "Genci ",
-      "role": "Developer"
-    },
-    {
       "name":  "Pasho Toska",
       "role": "Developer"
     },
     {
-      "name": "Juli ",
-      "role": "Developer"
-    },
-    {
-      "name": "Juli ",
-      "role": "Developer"
-    },
-    {
-      "name": "Xhulio ",
+      "name": "Jul Kreshpaj ",
       "role": "Developer"
     }
    ],
@@ -317,25 +293,17 @@
    "team": 
     [
       {
-        "name": "Genci ",
-        "role": "Developer"
-      },
-      {
         "name":  "Pasho Toska",
         "role": "Developer"
       },
       {
-        "name": "Juli ",
+        "name": "Redi Bello",
         "role": "Developer"
       },
       {
-        "name": "Juli ",
+        "name": "Xhulio Balli",
         "role": "Developer"
-      },
-      {
-        "name": "Xhulio ",
-        "role": "Developer"
-      } 
+      }
     ],
     "skills": 
      [
@@ -365,7 +333,7 @@
     "team": 
       [
         {
-          "name": "Genci ",
+          "name": "Genci Likaj",
           "role": "Developer"
         },
         {
@@ -373,15 +341,15 @@
           "role": "Developer"
         },
         {
-          "name": "Juli ",
+          "name": "Jul Kreshpaj ",
           "role": "Developer"
         },
         {
-          "name": "Juli ",
+          "name": "Redi Bello",
           "role": "Developer"
         },
         {
-          "name": "Xhulio ",
+          "name": "Xhulio Balli",
           "role": "Developer"
         }
       ],
@@ -415,7 +383,7 @@
    "team": 
     [
       {
-        "name": "Genci ",
+        "name": "Genci Likaj",
         "role": "Developer"
       },
       {
@@ -423,15 +391,15 @@
         "role": "Developer"
       },
       {
-        "name": "Juli ",
+        "name": "Jul Kreshpaj ",
         "role": "Developer"
       },
       {
-        "name": "Juli ",
+        "name": "Redi Bello",
         "role": "Developer"
       },
       {
-        "name": "Xhulio ",
+        "name": "Xhulio Balli",
         "role": "Developer"
       }
     ],
@@ -466,7 +434,7 @@
     "team": 
     [
       {
-        "name": "Genci ",
+        "name": "Genci Likaj",
         "role": "Developer"
       },
       {
@@ -474,15 +442,15 @@
         "role": "Developer"
       },
       {
-        "name": "Juli ",
+        "name": "Jul Kreshpaj ",
         "role": "Developer"
       },
       {
-        "name": "Juli ",
+        "name": "Redi Bello",
         "role": "Developer"
       },
       {
-        "name": "Xhulio ",
+        "name": "Xhulio Balli",
         "role": "Developer"
       }
     ],
@@ -515,7 +483,7 @@
    "team": 
     [
       {
-        "name": "Genci ",
+        "name": "Genci Likaj",
         "role": "Developer"
       },
       {
@@ -523,15 +491,15 @@
         "role": "Developer"
       },
       {
-        "name": "Juli ",
+        "name": "Jul Kreshpaj ",
         "role": "Developer"
       },
       {
-        "name": "Juli ",
+        "name": "Redi Bello",
         "role": "Developer"
       },
       {
-        "name": "Xhulio ",
+        "name": "Xhulio Balli",
         "role": "Developer"
       }
     ],
