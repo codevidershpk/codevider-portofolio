@@ -17,22 +17,23 @@
         "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-testimonial-light.jpg"
      ],   
    "team": 
-   [
-       "Genci ",
-       "Pasho Toska",
-       "Redi",
-       "Juli", 
-       "Xhuio" 
-   ],
-    "skills": 
-   [
-       "React",
-       "Django",
-       "Node.js",
-       "PHP"
-   ],
+    [
+        "Genci ",
+        "Pasho Toska",
+        "Redi",
+        "Juli", 
+        "Xhuio" 
+    ],
+      "skills": 
+    [
+        "React",
+        "Django",
+        "Node.js",
+        "PHP"
+    ],
     "startDate": "00/00/0000",   
-    "endDate": "00/00/0000"  
+    "endDate": "00/00/0000",
+    "status": "completed"  
   },
   {
     "id": "2",   
@@ -51,23 +52,24 @@
         "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project2/gallery-flat1.jpg"
      ]
     ,   
-   "team": 
-   [
-       "Genci ",
-       "Pasho Toska",
-       "Redi",
-       "Juli", 
-      "Xhuio" 
-   ],
+    "team": 
+    [
+        "Genci ",
+        "Pasho Toska",
+        "Redi",
+        "Juli", 
+        "Xhuio" 
+    ],
     "skills": 
-   [
-       "React",
-       "Django",
-       "Node.js",
-       "PHP"
-   ],  
+    [
+        "React",
+        "Django",
+        "Node.js",
+        "PHP"
+    ],  
     "startDate": "00/00/0000",   
-    "endDate": "00/00/0000"  
+    "endDate": "00/00/0000" ,
+    "status": "completed"  
   },
   {
     "id": "3",   
@@ -101,7 +103,8 @@
        "PHP"
    ],   
     "startDate": "00/00/0000",   
-    "endDate": "00/00/0000"  
+    "endDate": "00/00/0000" ,
+    "status": "completed"  
   },
   {
     "id": "4",   
@@ -134,7 +137,8 @@
        "PHP"
    ],     
     "startDate": "00/00/0000",   
-    "endDate": "00/00/0000"  
+    "endDate": "00/00/0000",
+    "status": "completed"   
   },
   {
     "id": "5",   
@@ -166,7 +170,8 @@
      "PHP"
    ],   
     "startDate": "00/00/0000",   
-    "endDate": "00/00/0000"  
+    "endDate": "00/00/0000",
+    "status": "completed"   
   },
   {
     "id": "6",   
@@ -199,7 +204,8 @@
        "PHP"
  ],
     "startDate": "00/00/0000",   
-    "endDate": "00/00/0000"  
+    "endDate": "00/00/0000" ,
+    "status": "completed"  
   },
   {
     "id": "7",   
@@ -219,53 +225,55 @@
      ],   
    "team": 
     [
-      "Genci ",
-       "Pasho Toska",
-       "Redi",
-       "Juli", 
-       "Xhuio" 
+        "Genci ",
+        "Pasho Toska",
+        "Redi",
+        "Juli", 
+        "Xhuio" 
     ],
     "skills": 
      [
         "React",
-         "Django",
-         "Node.js",
+        "Django",
+        "Node.js",
         "PHP"
      ],      
     "startDate": "00/00/0000",   
-    "endDate": "00/00/0000"  
+    "endDate": "00/00/0000" ,
+    "status": "active"  
   },
   {
     "id": "8",   
     "title": " title 8",   
     "description": "Web Application",   
     "category":[
-    "Web Application",
-    "Web Application",
-    "Web Application"
-  ],
+      "Web Application",
+      "Web Application",
+      "Web Application"
+    ],
     "img": 
      [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project8/Preloader_3.gif",
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project8/papers.png"
      ],   
-   "team": 
-   [
-       "Genci ",
-       "Pasho Toska",
-       "Redi",
-       "Juli", 
-       "Xhuio" 
-   ],
-    "skills": 
-   [
-       "React",
-       "Django",
-       "Node.js",
-       "PHP"
-   ],   
+    "team": 
+      [
+        "Genci ",
+        "Pasho Toska",
+        "Redi",
+        "Juli", 
+        "Xhuio" 
+      ],
+      "skills": 
+      [
+        "React",
+        "Django",
+        "Node.js",
+        "PHP"
+      ],   
     "startDate": "00/00/0000",   
-    "endDate": "00/00/0000"  
+    "endDate": "00/00/0000",
+    "status": "completed"   
   },
   {
     "id": "9",   
@@ -285,10 +293,10 @@
      ],   
    "team": 
     [
-       "Genci ",
-       "Pasho Toska",
+      "Genci ",
+      "Pasho Toska",
       "Redi",
-       "Juli", 
+      "Juli", 
       "Xhuio" 
     ],
     "skills": 
@@ -296,20 +304,21 @@
         "React",
         "Django",
         "Node.js",
-         "PHP"
+        "PHP"
      ],      
     "startDate": "00/00/0000",   
-    "endDate": "00/00/0000"  
+    "endDate": "00/00/0000" ,
+    "status": "completed"  
   },
   {
     "id": "10",   
     "title": " title 10",   
     "description": "Web Application",   
     "category":[
-    "Web Application",
-    "Web Application",
-    "Web Application"
-  ],  
+      "Web Application",
+      "Web Application",
+      "Web Application"
+    ],  
     "img": 
      [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project10/Ervin.jpg",
@@ -318,32 +327,34 @@
         "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project10/split-img1.jpg",
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project10/team-4.jpg"
      ],   
-   "team": 
-   [
+    "team": 
+    [
       "Genci ",
       "Pasho Toska",
-       "Redi",
-       "Juli", 
+      "Redi",
+      "Juli", 
       "Xhuio" 
-   ],
+    ],
     "skills": 
-   [ "React",
+    [ 
+      "React",
       "Django",
-       "Node.js",
-       "PHP"
-   ],   
+      "Node.js",
+      "PHP"
+    ],   
     "startDate": "00/00/0000",   
-    "endDate": "00/00/0000"  
+    "endDate": "00/00/0000",
+    "status": "completed" 
   },
   {
     "id": "11",   
     "title": " title 11",   
     "description": "Web Application",   
     "category":[
-    "Web Application",
-    "Web Application",
-    "Web Application"
-  ],   
+      "Web Application",
+      "Web Application",
+      "Web Application"
+    ],   
     "img": 
      [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project11/team-6 (1).jpg",
@@ -351,22 +362,23 @@
         "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project11/testimonial-2.jpg"
      ],   
    "team": 
-  [
+    [
       "Genci ",
       "Pasho Toska",
       "Redi",
       "Juli", 
       "Xhuio" 
-   ],
+    ],
     "skills": 
-   [
-       "React",
-       "Django",
-       "Node.js",
-       "PHP"
-   ],   
+    [
+      "React",
+      "Django",
+      "Node.js",
+      "PHP"
+    ],   
     "startDate": "00/00/0000",   
-    "endDate": "00/00/0000"  
+    "endDate": "00/00/0000",
+    "status": "active" 
   }
  ]
 }
