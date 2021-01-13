@@ -5,7 +5,30 @@
     "title": "Example title 1",   
     "description": "Web Application",   
     "category": "Web Application",   
-    "img": "1",   
+    "img": 
+     {
+      "img1": "#",
+      "img1": "#",
+      "img1": "#",
+      "img1": "#",
+      "img1": "#"
+     }
+    ,   
+   "team": 
+   {
+      "member1": "Genci ",
+      "member2": "Pasho Toska",
+      "member3": "Redi",
+      "member4": "Juli", 
+      "member4": "Xhuio" 
+    },
+    "skills": 
+   {
+      "skill1": "React",
+      "skill2": "Django",
+      "skill3": "Node.js",
+      "skill4": "PHP"
+   },
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
@@ -14,7 +37,30 @@
     "title": "Example title 2",   
     "description": "Web Application",   
     "category": "Web Application",   
-    "img": "1",   
+    "img": 
+     {
+      "img1": "#",
+      "img1": "#",
+      "img1": "#",
+      "img1": "#",
+      "img1": "#"
+     }
+    ,   
+   "team": 
+   {
+      "member1": "Genci ",
+      "member2": "Pasho Toska",
+      "member3": "Redi",
+      "member4": "Juli", 
+      "member4": "Xhuio" 
+    },
+    "skills": 
+   {
+      "skill1": "React",
+      "skill2": "Django",
+      "skill3": "Node.js",
+      "skill4": "PHP"
+   },  
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
@@ -23,7 +69,30 @@
     "title": "Example title 3",   
     "description": "Web Application",   
     "category": "Web Application",   
-    "img": "1",   
+   "img": 
+     {
+      "img1": "#",
+      "img1": "#",
+      "img1": "#",
+      "img1": "#",
+      "img1": "#"
+     }
+    ,   
+   "team": 
+   {
+      "member1": "Genci ",
+      "member2": "Pasho Toska",
+      "member3": "Redi",
+      "member4": "Juli", 
+      "member4": "Xhuio" 
+    },
+    "skills": 
+   {
+      "skill1": "React",
+      "skill2": "Django",
+      "skill3": "Node.js",
+      "skill4": "PHP"
+   },   
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
@@ -41,7 +110,30 @@
     "title": " title 5 ",   
     "description": "Web Application",   
     "category": "Web Application",   
-    "img": "1",   
+    "img": 
+     {
+      "img1": "#",
+      "img1": "#",
+      "img1": "#",
+      "img1": "#",
+      "img1": "#"
+     }
+    ,   
+   "team": 
+   {
+      "member1": "Genci ",
+      "member2": "Pasho Toska",
+      "member3": "Redi",
+      "member4": "Juli", 
+      "member4": "Xhuio" 
+    },
+    "skills": 
+   {
+      "skill1": "React",
+      "skill2": "Django",
+      "skill3": "Node.js",
+      "skill4": "PHP"
+   },   
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
@@ -50,7 +142,30 @@
     "title": " title 6",   
     "description": "Web Application",   
     "category": "Web Application",   
-    "img": "1",   
+    "img": 
+     {
+      "img1": "#",
+      "img1": "#",
+      "img1": "#",
+      "img1": "#",
+      "img1": "#"
+     }
+    ,   
+   "team": 
+   {
+      "member1": "Genci ",
+      "member2": "Pasho Toska",
+      "member3": "Redi",
+      "member4": "Juli", 
+      "member4": "Xhuio" 
+    },
+    "skills": 
+   {
+      "skill1": "React",
+      "skill2": "Django",
+      "skill3": "Node.js",
+      "skill4": "PHP"
+   },,   
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
@@ -68,7 +183,30 @@
     "title": " title 8",   
     "description": "Web Application",   
     "category": "Web Application",   
-    "img": "1",   
+    "img": 
+     {
+      "img1": "#",
+      "img1": "#",
+      "img1": "#",
+      "img1": "#",
+      "img1": "#"
+     }
+    ,   
+   "team": 
+   {
+      "member1": "Genci ",
+      "member2": "Pasho Toska",
+      "member3": "Redi",
+      "member4": "Juli", 
+      "member4": "Xhuio" 
+    },
+    "skills": 
+   {
+      "skill1": "React",
+      "skill2": "Django",
+      "skill3": "Node.js",
+      "skill4": "PHP"
+   },   
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
@@ -86,7 +224,30 @@
     "title": " title 10",   
     "description": "Web Application",   
     "category": "Web Application",   
-    "img": "1",   
+    "img": 
+     {
+      "img1": "#",
+      "img1": "#",
+      "img1": "#",
+      "img1": "#",
+      "img1": "#"
+     }
+    ,   
+   "team": 
+   {
+      "member1": "Genci ",
+      "member2": "Pasho Toska",
+      "member3": "Redi",
+      "member4": "Juli", 
+      "member4": "Xhuio" 
+    },
+    "skills": 
+   {
+      "skill1": "React",
+      "skill2": "Django",
+      "skill3": "Node.js",
+      "skill4": "PHP"
+   },   
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   },
@@ -95,7 +256,30 @@
     "title": " title 11",   
     "description": "Web Application",   
     "category": "Web Application",   
-    "img": "1",   
+    "img": 
+     {
+      "img1": "#",
+      "img1": "#",
+      "img1": "#",
+      "img1": "#",
+      "img1": "#"
+     }
+    ,   
+   "team": 
+   {
+      "member1": "Genci ",
+      "member2": "Pasho Toska",
+      "member3": "Redi",
+      "member4": "Juli", 
+      "member4": "Xhuio" 
+    },
+    "skills": 
+   {
+      "skill1": "React",
+      "skill2": "Django",
+      "skill3": "Node.js",
+      "skill4": "PHP"
+   },   
     "startDate": "00/00/0000",   
     "endDate": "00/00/0000"  
   }
