@@ -70,11 +70,26 @@
     ,   
     "team": 
     [
-        "Genci ",
-        "Pasho Toska",
-        "Redi",
-        "Juli", 
-        "Xhuio" 
+      {
+        "name": "Genci ",
+        "role": "Developer"
+      },
+      {
+        "name":  "Pasho Toska",
+        "role": "Developer"
+      },
+      {
+        "name": "Juli ",
+        "role": "Developer"
+      },
+      {
+        "name": "Juli ",
+        "role": "Developer"
+      },
+      {
+        "name": "Xhulio ",
+        "role": "Developer"
+      } 
     ],
     "skills": 
     [
@@ -105,11 +120,26 @@
     ,   
    "team": 
    [
-       "Genci ",
-      "Pasho Toska",
-       "Redi",
-       "Juli", 
-      "Xhuio" 
+    {
+      "name": "Genci ",
+      "role": "Developer"
+    },
+    {
+      "name":  "Pasho Toska",
+      "role": "Developer"
+    },
+    {
+      "name": "Juli ",
+      "role": "Developer"
+    },
+    {
+      "name": "Juli ",
+      "role": "Developer"
+    },
+    {
+      "name": "Xhulio ",
+      "role": "Developer"
+    }
    ],
     "skills": 
    [
@@ -139,11 +169,26 @@
      ],   
    "team": 
    [
-       "Genci ",
-       "Pasho Toska",
-       "Redi",
-      "Juli", 
-       "Xhuio" 
+    {
+      "name": "Genci ",
+      "role": "Developer"
+    },
+    {
+      "name":  "Pasho Toska",
+      "role": "Developer"
+    },
+    {
+      "name": "Juli ",
+      "role": "Developer"
+    },
+    {
+      "name": "Juli ",
+      "role": "Developer"
+    },
+    {
+      "name": "Xhulio ",
+      "role": "Developer"
+    }
    ],
     "skills": 
    [
@@ -173,11 +218,26 @@
      ],   
    "team": 
    [
-      "Genci ",
-       "Pasho Toska",
-       "Redi",
-       "Juli", 
-       "Xhuio" 
+    {
+      "name": "Genci ",
+      "role": "Developer"
+    },
+    {
+      "name":  "Pasho Toska",
+      "role": "Developer"
+    },
+    {
+      "name": "Juli ",
+      "role": "Developer"
+    },
+    {
+      "name": "Juli ",
+      "role": "Developer"
+    },
+    {
+      "name": "Xhulio ",
+      "role": "Developer"
+    }
    ],
     "skills": 
    [ "React",
@@ -206,11 +266,26 @@
      ],   
    "team": 
    [
-       "Genci ",
-       "Pasho Toska",
-       "Redi",
-       "Juli", 
-       "Xhuio" 
+    {
+      "name": "Genci ",
+      "role": "Developer"
+    },
+    {
+      "name":  "Pasho Toska",
+      "role": "Developer"
+    },
+    {
+      "name": "Juli ",
+      "role": "Developer"
+    },
+    {
+      "name": "Juli ",
+      "role": "Developer"
+    },
+    {
+      "name": "Xhulio ",
+      "role": "Developer"
+    }
    ],
     "skills": 
    [
@@ -241,11 +316,26 @@
      ],   
    "team": 
     [
-        "Genci ",
-        "Pasho Toska",
-        "Redi",
-        "Juli", 
-        "Xhuio" 
+      {
+        "name": "Genci ",
+        "role": "Developer"
+      },
+      {
+        "name":  "Pasho Toska",
+        "role": "Developer"
+      },
+      {
+        "name": "Juli ",
+        "role": "Developer"
+      },
+      {
+        "name": "Juli ",
+        "role": "Developer"
+      },
+      {
+        "name": "Xhulio ",
+        "role": "Developer"
+      } 
     ],
     "skills": 
      [
@@ -274,11 +364,26 @@
      ],   
     "team": 
       [
-        "Genci ",
-        "Pasho Toska",
-        "Redi",
-        "Juli", 
-        "Xhuio" 
+        {
+          "name": "Genci ",
+          "role": "Developer"
+        },
+        {
+          "name":  "Pasho Toska",
+          "role": "Developer"
+        },
+        {
+          "name": "Juli ",
+          "role": "Developer"
+        },
+        {
+          "name": "Juli ",
+          "role": "Developer"
+        },
+        {
+          "name": "Xhulio ",
+          "role": "Developer"
+        }
       ],
       "skills": 
       [
@@ -309,11 +414,26 @@
      ],   
    "team": 
     [
-      "Genci ",
-      "Pasho Toska",
-      "Redi",
-      "Juli", 
-      "Xhuio" 
+      {
+        "name": "Genci ",
+        "role": "Developer"
+      },
+      {
+        "name":  "Pasho Toska",
+        "role": "Developer"
+      },
+      {
+        "name": "Juli ",
+        "role": "Developer"
+      },
+      {
+        "name": "Juli ",
+        "role": "Developer"
+      },
+      {
+        "name": "Xhulio ",
+        "role": "Developer"
+      }
     ],
     "skills": 
      [
@@ -345,11 +465,26 @@
      ],   
     "team": 
     [
-      "Genci ",
-      "Pasho Toska",
-      "Redi",
-      "Juli", 
-      "Xhuio" 
+      {
+        "name": "Genci ",
+        "role": "Developer"
+      },
+      {
+        "name":  "Pasho Toska",
+        "role": "Developer"
+      },
+      {
+        "name": "Juli ",
+        "role": "Developer"
+      },
+      {
+        "name": "Juli ",
+        "role": "Developer"
+      },
+      {
+        "name": "Xhulio ",
+        "role": "Developer"
+      }
     ],
     "skills": 
     [ 
@@ -379,11 +514,26 @@
      ],   
    "team": 
     [
-      "Genci ",
-      "Pasho Toska",
-      "Redi",
-      "Juli", 
-      "Xhuio" 
+      {
+        "name": "Genci ",
+        "role": "Developer"
+      },
+      {
+        "name":  "Pasho Toska",
+        "role": "Developer"
+      },
+      {
+        "name": "Juli ",
+        "role": "Developer"
+      },
+      {
+        "name": "Juli ",
+        "role": "Developer"
+      },
+      {
+        "name": "Xhulio ",
+        "role": "Developer"
+      }
     ],
     "skills": 
     [
