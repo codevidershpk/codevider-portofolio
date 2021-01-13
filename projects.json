@@ -9,7 +9,8 @@
       "Web Application",
       "Website",
       "Mobile App"
-    ],   
+    ],  
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
     "img": 
      [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
@@ -61,7 +62,8 @@
        "Web Application",
       "Website",
       "Mobile App"
-    ],    
+    ],   
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png", 
     "img": 
      [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project2/bottom_pen.png",
@@ -114,6 +116,7 @@
       "Website",
       "Mobile App"
     ], 
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
    "img": 
      [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project3/header_edding.png",
@@ -153,6 +156,7 @@
       "Website",
       "Mobile App"
     ],   
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
     "img": 
      [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
@@ -202,7 +206,8 @@
        "Web Application",
         "Website",
         "Mobile App"
-      ],   
+      ],  
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png", 
     "img": 
      [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project5/logo-3.png",
@@ -251,7 +256,8 @@
       "Web Application",
       "Website",
       "Mobile App"
-  ],   
+    ],   
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
     "img": 
      [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project6/favicon.png",
@@ -290,6 +296,7 @@
       "Website",
       "Mobile App"
     ],   
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
     "img": 
      [
         "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/Pasho.jpg",
@@ -333,6 +340,7 @@
       "Website",
       "Mobile App"
     ],
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
     "img": 
      [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project8/Preloader_3.gif",
@@ -382,6 +390,7 @@
       "Website",
       "Mobile App"
     ],   
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
     "img": 
      [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project9/gallery-flat2.jpg",
@@ -432,7 +441,8 @@
        "Web Application",
       "Website",
       "Mobile App"
-    ],  
+    ], 
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png", 
     "img": 
      [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project10/Ervin.jpg",
@@ -484,7 +494,8 @@
        "Web Application",
       "Website",
       "Mobile App"
-    ],   
+    ],
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
     "img": 
      [
        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project11/team-6 (1).jpg",
