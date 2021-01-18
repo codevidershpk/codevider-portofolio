@@ -4,13 +4,15 @@ project: [
     "title": "Example title 1",   
     "client": "Project Client",   
     "description":
-    {
+    [
+      {
         projectStatement: "Describe the project ",
         developmentPhases: "",
         clientDescription: "A description of the company/client helps put the project in perspective ",
         projectSolution: "What was done. ",
         technicalSkills: " "
-    }, 
+      }
+     ], 
     "category":[
       "Web Application",
       "Website",
