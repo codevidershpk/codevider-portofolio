@@ -1,818 +1,539 @@
 {
   "project": [
-   {
-     "id": "1",   
-     "title": "Example title 1",   
-     "client": "Project Client",   
-     "description":
-     [
-       {
-         "projectStatement": "Describe the project ",
-         "developmentPhases": "",
-         "clientDescription": "A description of the company/client helps put the project in perspective ",
-         "projectSolution": "What was done. ",
-         "technicalSkills": " "
-     }
-   ], 
-     "category":[
-       "Web Application",
-       "Website",
-       "Mobile App"
-     ],  
-     "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
-     "img": 
-     [
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light4.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-testimonial-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       }
-     ],   
-   "team": 
-     [
-       {
-         "name": "Genci Likaj",
-         "role": "Developer"
-       },
-       {
-         "name":  "Pasho Toska",
-         "role": "Developer"
-       },
-       {
-         "name": "Jul Kreshpaj ",
-         "role": "Developer"
-       },
-       {
-         "name": "Redi Bello",
-         "role": "Developer"
-       },
-       {
-         "name": "Xhulio Balli",
-         "role": "Developer"
-       }
-     ],
-       "skills": 
-     [
-         "React",
-         "Django",
-         "Node.js",
-         "PHP"
-     ],
-     "startDate": "00/00/0000",   
-     "endDate": "00/00/0000",
-     "status": "completed"  
-   },
-   {
-     "id": "2",   
-     "title": "Example title 2",
-     "client": "Project Client",     
-     "description":
-     [
-       {
-         "projectStatement": "Describe the project ",
-         "developmentPhases": "",
-         "clientDescription": "A description of the company/client helps put the project in perspective ",
-         "projectSolution": "What was done. ",
-         "technicalSkills": " "
-     }
-   ], 
-     "category":[
-       "Web Application",
-       "Website",
-       "Mobile App"
-     ],  
-     "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
-     "img": 
-     [
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light4.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-testimonial-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       }
-     ], 
-     "team": 
-     [
-       {
-         "name": "Genci Likaj",
-         "role": "Developer"
-       },
-       {
-         "name":  "Pasho Toska",
-         "role": "Developer"
-       },
-       {
-         "name": "Jul Kreshpaj ",
-         "role": "Developer"
-       },
-       {
-         "name": "Redi Bello",
-         "role": "Developer"
-       },
-       {
-         "name": "Xhulio Balli",
-         "role": "Developer"
-       }
-     ],
-     "skills": 
-     [
-         "React",
-         "Django",
-         "Node.js",
-         "PHP"
-     ],  
-     "startDate": "00/00/0000",   
-     "endDate": "00/00/0000" ,
-     "status": "completed"  
-   },
-   {
-     "id": "3",   
-     "title": "Example title 3",   
-     "client": "Project Client",   
-     "description":
-     [
-       {
-         "projectStatement": "Describe the project ",
-         "developmentPhases": "",
-         "clientDescription": "A description of the company/client helps put the project in perspective ",
-         "projectSolution": "What was done. ",
-         "technicalSkills": " "
-     }
-   ], 
-     "category":[
-       "Web Application",
-       "Website",
-       "Mobile App"
-     ],  
-     "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
-     "img": 
-     [
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light4.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-testimonial-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       }
-     ],
-   "team": 
-   [
-     {
-       "name":  "Pasho Toska",
-       "role": "PHP/Plugin Developer"
-     },
-     {
-       "name": "Xhentila Dautaj ",
-       "role": "Wordpress Developer"
-     }
-   ],
-     "skills": 
-   [
-       "React",
-       "Django",
-       "Node.js",
-       "PHP"
-   ],   
-     "startDate": "00/00/0000",   
-     "endDate": "00/00/0000" ,
-     "status": "completed"  
-   },
-   {
-     "id": "4",   
-     "title": " title 4 ",  
-     "client": "Project Client",    
-     "description":
-     [
-       {
-         "projectStatement": "Describe the project ",
-         "developmentPhases": "",
-         "clientDescription": "A description of the company/client helps put the project in perspective ",
-         "projectSolution": "What was done. ",
-         "technicalSkills": " "
-     }
-   ], 
-     "category":[
-       "Web Application",
-       "Website",
-       "Mobile App"
-     ],  
-     "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
-     "img": 
-     [
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light4.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-testimonial-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       }
-     ],  
-   "team": 
-   [
-     {
-       "name": "Genci Likaj",
-       "role": "Developer"
-     },
-     {
-       "name":  "Pasho Toska",
-       "role": "Developer"
-     },
-     {
-       "name": "Jul Kreshpaj ",
-       "role": "Developer"
-     },
-     {
-       "name": "Redi Bello",
-       "role": "Developer"
-     },
-     {
-       "name": "Xhulio Balli",
-       "role": "Developer"
-     }
-   ],
-     "skills": 
-   [
-       "React",
-       "Django",
-       "Node.js",
-       "PHP"
-   ],     
-     "startDate": "00/00/0000",   
-     "endDate": "00/00/0000",
-     "status": "completed"   
-   },
-   {
-     "id": "5",   
-     "title": "title 5 ", 
-     "client": "Project Client",     
-     "description":
-     [
-       {
-         "projectStatement": "Describe the project ",
-         "developmentPhases": "",
-         "clientDescription": "A description of the company/client helps put the project in perspective ",
-         "projectSolution": "What was done. ",
-         "technicalSkills": " "
-     }
-   ], 
-     "category":[
-       "Web Application",
-       "Website",
-       "Mobile App"
-     ],  
-     "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
-     "img": 
-     [
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light4.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-testimonial-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       }
-     ],
-   "team": 
-   [
-     {
-       "name": "Genci Likaj",
-       "role": "Developer"
-     },
-     {
-       "name":  "Pasho Toska",
-       "role": "Developer"
-     },
-     {
-       "name": "Jul Kreshpaj ",
-       "role": "Developer"
-     },
-     {
-       "name": "Redi Bello",
-       "role": "Developer"
-     },
-     {
-       "name": "Xhulio Balli",
-       "role": "Developer"
-     }
-   ],
-     "skills": 
-   [ "React",
-       "Django",
-       "Node.js",
-     "PHP"
-   ],   
-     "startDate": "00/00/0000",   
-     "endDate": "00/00/0000",
-     "status": "completed"   
-   },
-   {
-     "id": "6",   
-     "title": " title 6",   
-     "client": "Project Client",   
-     "description":
-     [
-       {
-         "projectStatement": "Describe the project ",
-         "developmentPhases": "",
-         "clientDescription": "A description of the company/client helps put the project in perspective ",
-         "projectSolution": "What was done. ",
-         "technicalSkills": " "
-     }
-   ], 
-     "category":[
-       "Web Application",
-       "Website",
-       "Mobile App"
-     ],  
-     "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
-     "img": 
-     [
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light4.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-testimonial-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       }
-     ],
-   "team": 
-   [
-     {
-       "name":  "Pasho Toska",
-       "role": "Developer"
-     },
-     {
-       "name": "Jul Kreshpaj ",
-       "role": "Developer"
-     }
-   ],
-     "skills": 
-   [
-       "React",
-       "Django",
-       "Node.js",
-       "PHP"
- ],
-     "startDate": "00/00/0000",   
-     "endDate": "00/00/0000" ,
-     "status": "completed"  
-   },
-   {
-     "id": "7",   
-     "title": " title 7",   
-     "client": "Project Client",   
-     "description":
-     [
-       {
-         "projectStatement": "Describe the project ",
-         "developmentPhases": "",
-         "clientDescription": "A description of the company/client helps put the project in perspective ",
-         "projectSolution": "What was done. ",
-         "technicalSkills": " "
-     }
-   ], 
-     "category":[
-       "Web Application",
-       "Website",
-       "Mobile App"
-     ],  
-     "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
-     "img": 
-     [
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light4.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-testimonial-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       }
-     ], 
-   "team": 
-     [
-       {
-         "name":  "Pasho Toska",
-         "role": "Developer"
-       },
-       {
-         "name": "Redi Bello",
-         "role": "Developer"
-       },
-       {
-         "name": "Xhulio Balli",
-         "role": "Developer"
-       }
-     ],
-     "skills": 
-     [
-         "React",
-         "Django",
-         "Node.js",
-         "PHP"
-     ],      
-     "startDate": "00/00/0000",   
-     "endDate": "00/00/0000" ,
-     "status": "active"  
-   },
-   {
-     "id": "8",   
-     "title": " title 8",   
-     "client": "Project Client",   
-     "description":
-     [
-       {
-         "projectStatement": "Describe the project ",
-         "developmentPhases": "",
-         "clientDescription": "A description of the company/client helps put the project in perspective ",
-         "projectSolution": "What was done. ",
-         "technicalSkills": " "
-     }
-   ], 
-     "category":[
-       "Web Application",
-       "Website",
-       "Mobile App"
-     ],  
-     "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
-     "img": 
-     [
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light4.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-testimonial-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       }
-     ],
-     "team": 
-       [
-         {
-           "name": "Genci Likaj",
-           "role": "Developer"
-         },
-         {
-           "name":  "Pasho Toska",
-           "role": "Developer"
-         },
-         {
-           "name": "Jul Kreshpaj ",
-           "role": "Developer"
-         },
-         {
-           "name": "Redi Bello",
-           "role": "Developer"
-         },
-         {
-           "name": "Xhulio Balli",
-           "role": "Developer"
-         }
-       ],
-       "skills": 
-       [
-         "React",
-         "Django",
-         "Node.js",
-         "PHP"
-       ],   
-     "startDate": "00/00/0000",   
-     "endDate": "00/00/0000",
-     "status": "completed"   
-   },
-   {
-     "id": "9",   
-     "title": "title 9",   
-     "client": "Project Client",   
-     "description":
-     [
-       {
-         "projectStatement": "Describe the project ",
-         "developmentPhases": "",
-         "clientDescription": "A description of the company/client helps put the project in perspective ",
-         "projectSolution": "What was done. ",
-         "technicalSkills": " "
-     }
-   ], 
-     "category":[
-       "Web Application",
-       "Website",
-       "Mobile App"
-     ],  
-     "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
-     "img": 
-     [
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light4.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-testimonial-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       }
-     ],
-   "team": 
-     [
-       {
-         "name": "Genci Likaj",
-         "role": "Developer"
-       },
-       {
-         "name":  "Pasho Toska",
-         "role": "Developer"
-       },
-       {
-         "name": "Jul Kreshpaj ",
-         "role": "Developer"
-       },
-       {
-         "name": "Redi Bello",
-         "role": "Developer"
-       },
-       {
-         "name": "Xhulio Balli",
-         "role": "Developer"
-       }
-     ],
-     "skills": 
-     [
-         "React",
-         "Django",
-         "Node.js",
-         "PHP"
-     ],      
-     "startDate": "00/00/0000",   
-     "endDate": "00/00/0000" ,
-     "status": "completed"  
-   },
-   {
-     "id": "10",   
-     "title": " title 10",  
-     "client": "Project Client",    
-     "description":
-     [
-       {
-         "projectStatement": "Describe the project ",
-         "developmentPhases": "",
-         "clientDescription": "A description of the company/client helps put the project in perspective ",
-         "projectSolution": "What was done. ",
-         "technicalSkills": " "
-     }
-   ], 
-     "category":[
-       "Web Application",
-       "Website",
-       "Mobile App"
-     ],  
-     "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
-     "img": 
-     [
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light4.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-testimonial-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       }
-     ], 
-     "team": 
-     [
-       {
-         "name": "Genci Likaj",
-         "role": "Developer"
-       },
-       {
-         "name":  "Pasho Toska",
-         "role": "Developer"
-       },
-       {
-         "name": "Jul Kreshpaj ",
-         "role": "Developer"
-       },
-       {
-         "name": "Redi Bello",
-         "role": "Developer"
-       },
-       {
-         "name": "Xhulio Balli",
-         "role": "Developer"
-       }
-     ],
-     "skills": 
-     [ 
-       "React",
-       "Django",
-       "Node.js",
-       "PHP"
-     ],   
-     "startDate": "00/00/0000",   
-     "endDate": "00/00/0000",
-     "status": "completed" 
-   },
-   {
-     "id": "11",   
-     "title": " title 11", 
-     "client": "Project Client",     
-     "description":
-     [
-       {
-         "projectStatement": "Describe the project ",
-         "developmentPhases": "",
-         "clientDescription": "A description of the company/client helps put the project in perspective ",
-         "projectSolution": "What was done. ",
-         "technicalSkills": " "
-     }
-   ], 
-     "category":[
-       "Web Application",
-       "Website",
-       "Mobile App"
-     ],  
-     "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
-     "img": 
-     [
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light4.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       },
-       {
-         "src": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-testimonial-light.jpg",
-         "alt": "Codevider Project",
-         "title": "Codevider" 
-       }
-     ],  
-   "team": 
-     [
-       {
-         "name": "Genci Likaj",
-         "role": "Developer"
-       },
-       {
-         "name":  "Pasho Toska",
-         "role": "Developer"
-       },
-       {
-         "name": "Jul Kreshpaj ",
-         "role": "Developer"
-       },
-       {
-         "name": "Redi Bello",
-         "role": "Developer"
-       },
-       {
-         "name": "Xhulio Balli",
-         "role": "Developer"
-       }
-     ],
-     "skills": 
-     [
-       "React",
-       "Django",
-       "Node.js",
-       "PHP"
-     ],   
-     "startDate": "00/00/0000",   
-     "endDate": "00/00/0000",
-     "status": "active" 
-   }
+  {
+    "id": "1",   
+    "title": "Example title 1",   
+    "client": "Project Client",   
+    "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
+    "category":[
+      "Web Application",
+      "Website",
+      "Mobile App"
+    ],  
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
+    "img": 
+    [
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/awesome--feature.png",
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light.jpg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-counter-light4.jpg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project1/bg-testimonial-light.jpg"
+    ],   
+  "team": 
+    [
+      {
+        "name": "Genci Likaj",
+        "role": "Developer"
+      },
+      {
+        "name":  "Pasho Toska",
+        "role": "Developer"
+      },
+      {
+        "name": "Jul Kreshpaj ",
+        "role": "Developer"
+      },
+      {
+        "name": "Redi Bello",
+        "role": "Developer"
+      },
+      {
+        "name": "Xhulio Balli",
+        "role": "Developer"
+      }
+    ],
+      "skills": 
+    [
+        "React",
+        "Django",
+        "Node.js",
+        "PHP"
+    ],
+    "startDate": "00/00/0000",   
+    "endDate": "00/00/0000",
+    "status": "completed"  
+  },
+  {
+    "id": "2",   
+    "title": "Example title 2",
+    "client": "Project Client",     
+    "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
+    "category":[
+      "Web Application",
+      "Website",
+      "Mobile App"
+    ],   
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg", 
+    "img": 
+    [
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project2/bottom_pen.png",
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project2/bottom_right.png",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project2/codevider_cover.svg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project2/gallery-flat1.jpg"
+    ]
+    ,   
+    "team": 
+    [
+      {
+        "name": "Genci Likaj",
+        "role": "Developer"
+      },
+      {
+        "name":  "Pasho Toska",
+        "role": "Developer"
+      },
+      {
+        "name": "Jul Kreshpaj ",
+        "role": "Developer"
+      },
+      {
+        "name": "Redi Bello",
+        "role": "Developer"
+      },
+      {
+        "name": "Xhulio Balli",
+        "role": "Developer"
+      }
+    ],
+    "skills": 
+    [
+        "React",
+        "Django",
+        "Node.js",
+        "PHP"
+    ],  
+    "startDate": "00/00/0000",   
+    "endDate": "00/00/0000" ,
+    "status": "completed"  
+  },
+  {
+    "id": "3",   
+    "title": "Example title 3",   
+    "client": "Project Client",   
+    "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
+    "category":[
+      "Web Application",
+      "Website",
+      "Mobile App"
+    ], 
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
+  "img": 
+    [
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project3/header_edding.png",
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project3/gallery-flat5.jpg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project3/gallery-flat3.jpg"
+    ]
+    ,   
+  "team": 
+  [
+    {
+      "name":  "Pasho Toska",
+      "role": "PHP/Plugin Developer"
+    },
+    {
+      "name": "Xhentila Dautaj ",
+      "role": "Wordpress Developer"
+    }
+  ],
+    "skills": 
+  [
+      "React",
+      "Django",
+      "Node.js",
+      "PHP"
+  ],   
+    "startDate": "00/00/0000",   
+    "endDate": "00/00/0000" ,
+    "status": "completed"  
+  },
+  {
+    "id": "4",   
+    "title": " title 4 ",  
+    "client": "Project Client",    
+    "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
+    "category":[    
+      "Web Application",
+      "Website",
+      "Mobile App"
+    ],   
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
+    "img": 
+    [
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/logo-1 .png",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/header_marker.png"
+    ],   
+  "team": 
+  [
+    {
+      "name": "Genci Likaj",
+      "role": "Developer"
+    },
+    {
+      "name":  "Pasho Toska",
+      "role": "Developer"
+    },
+    {
+      "name": "Jul Kreshpaj ",
+      "role": "Developer"
+    },
+    {
+      "name": "Redi Bello",
+      "role": "Developer"
+    },
+    {
+      "name": "Xhulio Balli",
+      "role": "Developer"
+    }
+  ],
+    "skills": 
+  [
+      "React",
+      "Django",
+      "Node.js",
+      "PHP"
+  ],     
+    "startDate": "00/00/0000",   
+    "endDate": "00/00/0000",
+    "status": "completed"   
+  },
+  {
+    "id": "5",   
+    "title": " title 5 ", 
+    "client": "Project Client",     
+    "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
+    "category": [
+      "Web Application",
+        "Website",
+        "Mobile App"
+      ],  
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg", 
+    "img": 
+    [
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project5/logo-3.png",
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project5/logo-4.png",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project5/logo-dark.png"
+    ],   
+  "team": 
+  [
+    {
+      "name": "Genci Likaj",
+      "role": "Developer"
+    },
+    {
+      "name":  "Pasho Toska",
+      "role": "Developer"
+    },
+    {
+      "name": "Jul Kreshpaj ",
+      "role": "Developer"
+    },
+    {
+      "name": "Redi Bello",
+      "role": "Developer"
+    },
+    {
+      "name": "Xhulio Balli",
+      "role": "Developer"
+    }
+  ],
+    "skills": 
+  [ "React",
+      "Django",
+      "Node.js",
+    "PHP"
+  ],   
+    "startDate": "00/00/0000",   
+    "endDate": "00/00/0000",
+    "status": "completed"   
+  },
+  {
+    "id": "6",   
+    "title": " title 6",   
+    "client": "Project Client",   
+    "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
+    "category":[
+      "Web Application",
+      "Website",
+      "Mobile App"
+    ],   
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
+    "img": 
+    [
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project6/favicon.png",
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project6/home_bg-01.jpg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project6/logo-5.png"
+    ],   
+  "team": 
+  [
+    {
+      "name":  "Pasho Toska",
+      "role": "Developer"
+    },
+    {
+      "name": "Jul Kreshpaj ",
+      "role": "Developer"
+    }
+  ],
+    "skills": 
+  [
+      "React",
+      "Django",
+      "Node.js",
+      "PHP"
+],
+    "startDate": "00/00/0000",   
+    "endDate": "00/00/0000" ,
+    "status": "completed"  
+  },
+  {
+    "id": "7",   
+    "title": " title 7",   
+    "client": "Project Client",   
+    "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
+    "category":[
+      "Web Application",
+      "Website",
+      "Mobile App"
+    ],   
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
+    "img": 
+    [
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/Pasho.jpg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/logo-dark.svg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/page-header.jpg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/responsive.png"
+    ],   
+  "team": 
+    [
+      {
+        "name":  "Pasho Toska",
+        "role": "Developer"
+      },
+      {
+        "name": "Redi Bello",
+        "role": "Developer"
+      },
+      {
+        "name": "Xhulio Balli",
+        "role": "Developer"
+      }
+    ],
+    "skills": 
+    [
+        "React",
+        "Django",
+        "Node.js",
+        "PHP"
+    ],      
+    "startDate": "00/00/0000",   
+    "endDate": "00/00/0000" ,
+    "status": "active"  
+  },
+  {
+    "id": "8",   
+    "title": " title 8",   
+    "client": "Project Client",   
+    "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
+    "category":[
+      "Web Application",
+      "Website",
+      "Mobile App"
+    ],
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
+    "img": 
+    [
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project8/Preloader_3.gif",
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project8/papers.png"
+    ],   
+    "team": 
+      [
+        {
+          "name": "Genci Likaj",
+          "role": "Developer"
+        },
+        {
+          "name":  "Pasho Toska",
+          "role": "Developer"
+        },
+        {
+          "name": "Jul Kreshpaj ",
+          "role": "Developer"
+        },
+        {
+          "name": "Redi Bello",
+          "role": "Developer"
+        },
+        {
+          "name": "Xhulio Balli",
+          "role": "Developer"
+        }
+      ],
+      "skills": 
+      [
+        "React",
+        "Django",
+        "Node.js",
+        "PHP"
+      ],   
+    "startDate": "00/00/0000",   
+    "endDate": "00/00/0000",
+    "status": "completed"   
+  },
+  {
+    "id": "9",   
+    "title": " title 9",   
+    "client": "Project Client",   
+    "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
+    "category":[
+      "Web Application",
+      "Website",
+      "Mobile App"
+    ],   
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
+    "img": 
+    [
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project9/gallery-flat2.jpg",
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project9/split-blog.jpg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project9/split-img2.jpg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project9/team-3.jpg"
+    ],   
+  "team": 
+    [
+      {
+        "name": "Genci Likaj",
+        "role": "Developer"
+      },
+      {
+        "name":  "Pasho Toska",
+        "role": "Developer"
+      },
+      {
+        "name": "Jul Kreshpaj ",
+        "role": "Developer"
+      },
+      {
+        "name": "Redi Bello",
+        "role": "Developer"
+      },
+      {
+        "name": "Xhulio Balli",
+        "role": "Developer"
+      }
+    ],
+    "skills": 
+    [
+        "React",
+        "Django",
+        "Node.js",
+        "PHP"
+    ],      
+    "startDate": "00/00/0000",   
+    "endDate": "00/00/0000" ,
+    "status": "completed"  
+  },
+  {
+    "id": "10",   
+    "title": " title 10",  
+    "client": "Project Client",    
+    "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
+    "category":[
+      "Web Application",
+      "Website",
+      "Mobile App"
+    ], 
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg", 
+    "img": 
+    [
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project10/Ervin.jpg",
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project10/logo-2.png",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project10/photo_about_us.jpg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project10/split-img1.jpg",
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project10/team-4.jpg"
+    ],   
+    "team": 
+    [
+      {
+        "name": "Genci Likaj",
+        "role": "Developer"
+      },
+      {
+        "name":  "Pasho Toska",
+        "role": "Developer"
+      },
+      {
+        "name": "Jul Kreshpaj ",
+        "role": "Developer"
+      },
+      {
+        "name": "Redi Bello",
+        "role": "Developer"
+      },
+      {
+        "name": "Xhulio Balli",
+        "role": "Developer"
+      }
+    ],
+    "skills": 
+    [ 
+      "React",
+      "Django",
+      "Node.js",
+      "PHP"
+    ],   
+    "startDate": "00/00/0000",   
+    "endDate": "00/00/0000",
+    "status": "completed" 
+  },
+  {
+    "id": "11",   
+    "title": " title 11", 
+    "client": "Project Client",     
+    "description": "Build any type of web application from scratch for all kinds of commercial grade, mid-large scale projects with our full stack development services.",   
+    "category":[
+      "Web Application",
+      "Website",
+      "Mobile App"
+    ],
+    "featuredImage" : "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project4/gallery-flat4.jpg",
+    "img": 
+    [
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project11/team-6 (1).jpg",
+      "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project11/team-6.jpg",
+        "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project11/testimonial-2.jpg"
+    ],   
+  "team": 
+    [
+      {
+        "name": "Genci Likaj",
+        "role": "Developer"
+      },
+      {
+        "name":  "Pasho Toska",
+        "role": "Developer"
+      },
+      {
+        "name": "Jul Kreshpaj ",
+        "role": "Developer"
+      },
+      {
+        "name": "Redi Bello",
+        "role": "Developer"
+      },
+      {
+        "name": "Xhulio Balli",
+        "role": "Developer"
+      }
+    ],
+    "skills": 
+    [
+      "React",
+      "Django",
+      "Node.js",
+      "PHP"
+    ],   
+    "startDate": "00/00/0000",   
+    "endDate": "00/00/0000",
+    "status": "active" 
+  }
  
  ]
