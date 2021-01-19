@@ -503,7 +503,7 @@
          "PHP"
      ],      
      "startDate": "00/00/0000",   
-     "endDate": "00/00/0000" ,
+     "endDate": "" ,
      "status": "active"  
    },
    {
@@ -734,8 +734,8 @@
        "PHP"
      ],   
      "startDate": "00/00/0000",   
-     "endDate": "00/00/0000",
-     "status": "completed" 
+     "endDate": "",
+     "status": "active" 
    },
    {
      "id": "11",   
@@ -811,7 +811,7 @@
        "PHP"
      ],   
      "startDate": "00/00/0000",   
-     "endDate": "00/00/0000",
+     "endDate": "",
      "status": "active" 
    }
  
