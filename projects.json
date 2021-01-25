@@ -44,23 +44,28 @@
       "team": [
         {
           "name": "Genci Likaj",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/Pasho.jpg"
         },
         {
           "name": "Pasho Toska",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/Pasho.jpg"
         },
         {
           "name": "Jul Kreshpaj ",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/Pasho.jpg"
         },
         {
           "name": "Redi Bello",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/Pasho.jpg"
         },
         {
           "name": "Xhulio Balli",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/Pasho.jpg"
         }
       ],
       "skills": [
@@ -117,23 +122,23 @@
       "team": [
         {
           "name": "Genci Likaj",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-7.jpg"
         },
         {
           "name": "Pasho Toska",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/Pasho.jpg"
         },
         {
           "name": "Jul Kreshpaj ",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-5.jpg"
         },
         {
           "name": "Redi Bello",
-          "role": "Developer"
-        },
-        {
-          "name": "Xhulio Balli",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-7.jpg"
         }
       ],
       "skills": [
@@ -190,11 +195,13 @@
       "team": [
         {
           "name": "Pasho Toska",
-          "role": "PHP/Plugin Developer"
+          "role": "PHP/Plugin Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/Pasho.jpg"
         },
         {
           "name": "Xhentila Dautaj ",
-          "role": "Wordpress Developer"
+          "role": "Wordpress Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project9/team-3.jpg"
         }
       ],
       "skills": [
@@ -247,27 +254,31 @@
           "alt": "Codevider Project",
           "title": "Codevider"
         }
-      ],
-      "team": [
+      ],"team": [
         {
           "name": "Genci Likaj",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-7.jpg"
         },
         {
           "name": "Pasho Toska",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/Pasho.jpg"
         },
         {
           "name": "Jul Kreshpaj ",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-5.jpg"
         },
         {
           "name": "Redi Bello",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-7.jpg"
         },
         {
           "name": "Xhulio Balli",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-5.jpg"
         }
       ],
       "skills": [
@@ -324,23 +335,28 @@
       "team": [
         {
           "name": "Genci Likaj",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-7.jpg"
         },
         {
           "name": "Pasho Toska",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/Pasho.jpg"
         },
         {
           "name": "Jul Kreshpaj ",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-5.jpg"
         },
         {
           "name": "Redi Bello",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-7.jpg"
         },
         {
           "name": "Xhulio Balli",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-5.jpg"
         }
       ],
       "skills": [
@@ -397,11 +413,13 @@
       "team": [
         {
           "name": "Pasho Toska",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/Pasho.jpg"
         },
         {
           "name": "Jul Kreshpaj ",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-5.jpg"
         }
       ],
       "skills": [
@@ -457,16 +475,19 @@
       ],
       "team": [
         {
-          "name": "Pasho Toska",
-          "role": "Developer"
+          "name": "Genci Likaj",
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-7.jpg"
         },
         {
           "name": "Redi Bello",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-7.jpg"
         },
         {
           "name": "Xhulio Balli",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-5.jpg"
         }
       ],
       "skills": [
@@ -520,26 +541,31 @@
           "title": "Codevider"
         }
       ],
-      "team": [
+     "team": [
         {
           "name": "Genci Likaj",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-7.jpg"
         },
         {
           "name": "Pasho Toska",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/Pasho.jpg"
         },
         {
           "name": "Jul Kreshpaj ",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-5.jpg"
         },
         {
           "name": "Redi Bello",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-7.jpg"
         },
         {
           "name": "Xhulio Balli",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-5.jpg"
         }
       ],
       "skills": [
@@ -593,26 +619,21 @@
           "title": "Codevider"
         }
       ],
-      "team": [
+     "team": [
         {
           "name": "Genci Likaj",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-7.jpg"
         },
         {
           "name": "Pasho Toska",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/Pasho.jpg"
         },
         {
           "name": "Jul Kreshpaj ",
-          "role": "Developer"
-        },
-        {
-          "name": "Redi Bello",
-          "role": "Developer"
-        },
-        {
-          "name": "Xhulio Balli",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-5.jpg"
         }
       ],
       "skills": [
@@ -669,23 +690,28 @@
       "team": [
         {
           "name": "Genci Likaj",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-7.jpg"
         },
         {
           "name": "Pasho Toska",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/Pasho.jpg"
         },
         {
           "name": "Jul Kreshpaj ",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-5.jpg"
         },
         {
           "name": "Redi Bello",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-7.jpg"
         },
         {
           "name": "Xhulio Balli",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-5.jpg"
         }
       ],
       "skills": [
@@ -742,23 +768,28 @@
       "team": [
         {
           "name": "Genci Likaj",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-7.jpg"
         },
         {
           "name": "Pasho Toska",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project7/Pasho.jpg"
         },
         {
           "name": "Jul Kreshpaj ",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-5.jpg"
         },
         {
           "name": "Redi Bello",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-7.jpg"
         },
         {
           "name": "Xhulio Balli",
-          "role": "Developer"
+          "role": "Developer",
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-5.jpg"
         }
       ],
       "skills": [
