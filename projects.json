@@ -3,6 +3,7 @@
     {
       "id": "1",
       "title": "Example title 1",
+      "url" : "example_title_1",
       "client": "Project Client",
       "description": [
         {
@@ -64,7 +65,7 @@
         {
           "name": "Redi Bello",
           "role": "Developer",
-          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/team/RediBello.jpg"
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/team/RediBello.jpg"
 
         },
         {
@@ -86,6 +87,7 @@
     {
       "id": "2",
       "title": "Example title 2",
+      "url" : "example_title_2",
       "client": "Project Client",
       "description": [
         {
@@ -144,7 +146,7 @@
         {
           "name": "Redi Bello",
           "role": "Developer",
-          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/team/RediBello.jpg"
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/team/RediBello.jpg"
         }
       ],
       "skills": [
@@ -160,6 +162,7 @@
     {
       "id": "3",
       "title": "Example title 3",
+      "url" : "example_title_3",
       "client": "Project Client",
       "description": [
         {
@@ -223,6 +226,7 @@
     {
       "id": "4",
       "title": " title 4 ",
+      "url" : "example_title_4",
       "client": "Project Client",
       "description": [
         {
@@ -279,7 +283,7 @@
         {
           "name": "Redi Bello",
           "role": "Developer",
-          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/team/RediBello.jpg"
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/team/RediBello.jpg"
         },
         {
           "name": "Xhulio Balli",
@@ -300,6 +304,7 @@
     {
       "id": "5",
       "title": "title 5 ",
+      "url" : "title_5",
       "client": "Project Client",
       "description": [
         {
@@ -357,7 +362,7 @@
         {
           "name": "Redi Bello",
           "role": "Developer",
-          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/team/RediBello.jpg"
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/team/RediBello.jpg"
         },
         {
           "name": "Xhulio Balli",
@@ -378,6 +383,7 @@
     {
       "id": "6",
       "title": " title 6",
+      "url" : "example_title_6",
       "client": "Project Client",
       "description": [
         {
@@ -440,6 +446,7 @@
     {
       "id": "7",
       "title": " title 7",
+      "url" : "example_title_7",
       "client": "Project Client",
       "description": [
         {
@@ -487,7 +494,7 @@
         {
           "name": "Redi Bello",
           "role": "Developer",
-          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/team/RediBello.jpg"
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/team/RediBello.jpg"
         },
         {
           "name": "Xhulio Balli",
@@ -508,6 +515,7 @@
     {
       "id": "8",
       "title": " title 8",
+      "url" : "example_title_8",
       "client": "Project Client",
       "description": [
         {
@@ -565,7 +573,7 @@
         {
           "name": "Redi Bello",
           "role": "Developer",
-          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/team/RediBello.jpg"
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/team/RediBello.jpg"
         },
         {
           "name": "Xhulio Balli",
@@ -586,6 +594,7 @@
     {
       "id": "9",
       "title": "title 9",
+      "url" : "example_title_9",
       "client": "Project Client",
       "description": [
         {
@@ -653,6 +662,7 @@
     {
       "id": "10",
       "title": " title 10",
+      "url" : "example_title_10",
       "client": "Project Client",
       "description": [
         {
@@ -718,32 +728,7 @@
           "title": "Codevider"
         }
       ],
-      "team": [
-        {
-          "name": "Genci Likaj",
-          "role": "Developer",
-          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-7.jpg"
-        },
-        {
-          "name": "Pasho Toska",
-          "role": "Developer",
-          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/team/PashoToska.jpeg"        },
-        {
-          "name": "Jul Kreshpaj ",
-          "role": "Developer",
-          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-5.jpg"
-        },
-        {
-          "name": "Redi Bello",
-          "role": "Developer",
-          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/team/RediBello.jpg"
-        },
-        {
-          "name": "Xhulio Balli",
-          "role": "Developer",
-          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-5.jpg"
-        }
-      ],
+      
       "skills": [
         "React",
         "Django",
@@ -757,6 +742,7 @@
     {
       "id": "11",
       "title": " title 11",
+      "url" : "example_title_11",
       "client": "Project Client",
       "description": [
         {
@@ -814,7 +800,7 @@
         {
           "name": "Redi Bello",
           "role": "Developer",
-          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/team/RediBello.jpg"  
+          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/team/RediBello.jpg"  
         },
         {
           "name": "Xhulio Balli",
@@ -833,9 +819,4 @@
       "status": "active"
     }
   ]
-<<<<<<< HEAD
 }
-=======
-}
-
->>>>>>> 225b9ea645ffc6051fa99d3ef9de5eb14de39593
