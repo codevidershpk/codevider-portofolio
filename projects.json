@@ -728,36 +728,6 @@
           "title": "Codevider"
         }
       ],
-<<<<<<< HEAD
-      
-=======
-      "team": [
-        {
-          "name": "Genci Likaj",
-          "role": "Developer",
-          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-7.jpg"
-        },
-        {
-          "name": "Pasho Toska",
-          "role": "Developer",
-          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/team/PashoToska.jpeg"        },
-        {
-          "name": "Jul Kreshpaj ",
-          "role": "Developer",
-          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-5.jpg"
-        },
-        {
-          "name": "Redi Bello",
-          "role": "Developer",
-          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/team/RediBello.jpg"
-        },
-        {
-          "name": "Xhulio Balli",
-          "role": "Developer",
-          "img": "https://raw.githubusercontent.com/ptoska/codevider-portofolio/main/images/project14/team-5.jpg"
-        }
-      ],
->>>>>>> af4cf13008ee0b4d3100d732082c1b73bdab71fe
       "skills": [
         "React",
         "Django",
@@ -849,7 +819,3 @@
     }
   ]
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> af4cf13008ee0b4d3100d732082c1b73bdab71fe
