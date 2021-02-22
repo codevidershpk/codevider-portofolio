@@ -5,6 +5,7 @@
       "title": "Example title 1",
       "url" : "example-title-1",
       "client": "Project Client",
+      "displayKey": "yes",
       "description": [
         {
           "projectStatement": "[Client.Company] requires a full website build to support your digital growth strategy. ",
@@ -84,6 +85,7 @@
       "title": "Example title 2",
       "url" : "example-title-2",
       "client": "Project Client",
+      "displayKey": "yes",
       "description": [
         {
           "projectStatement": "[Client.Company] requires a full website build to support your digital growth strategy. ",          
@@ -158,6 +160,7 @@
       "title": "Example title 3",
       "url" : "example-title-3",
       "client": "Project Client",
+      "displayKey": "yes",
       "description": [
         {
           "projectStatement": "[Client.Company] requires a full website build to support your digital growth strategy. ",          
@@ -222,6 +225,7 @@
       "title": " title 4 ",
       "url" : "example-title-4",
       "client": "Project Client",
+      "displayKey": "yes",
       "description": [
         {
           "projectStatement": "[Client.Company] requires a full website build to support your digital growth strategy. ",          
@@ -295,6 +299,7 @@
       "title": "title 5 ",
       "url" : "example-title-5",
       "client": "Project Client",
+      "displayKey": "no",
       "description": [
         {
           "projectStatement": "[Client.Company] requires a full website build to support your digital growth strategy. ",          
@@ -369,6 +374,7 @@
       "title": " title 6",
       "url" : "example-title-6",
       "client": "Project Client",
+      "displayKey": "no",
       "description": [
         {
          "projectStatement": "[Client.Company] requires a full website build to support your digital growth strategy. ",          
@@ -432,6 +438,7 @@
       "title": " title 7",
       "url" : "example-title-7",
       "client": "Project Client",
+      "displayKey": "no",
       "description": [
         {
           "projectStatement": "[Client.Company] requires a full website build to support your digital growth strategy. ",          
@@ -501,6 +508,7 @@
       "title": " title 8",
       "url" : "example-title-8",
       "client": "Project Client",
+      "displayKey": "no",
       "description": [
         {
           "projectStatement": "[Client.Company] requires a full website build to support your digital growth strategy. ",          
@@ -575,6 +583,7 @@
       "title": "title 9",
       "url" : "example-title-9",
       "client": "Project Client",
+      "displayKey": "no",
       "description": [
         {
           "projectStatement": "[Client.Company] requires a full website build to support your digital growth strategy. ",          
@@ -643,6 +652,7 @@
       "title": " title 10",
       "url" : "example-title-10",
       "client": "Project Client",
+      "displayKey": "no",
       "description": [
         {
           "projectStatement": "[Client.Company] requires a full website build to support your digital growth strategy. ",          
@@ -712,6 +722,7 @@
       "title": " title 11",
       "url" : "example-title-11",
       "client": "Project Client",
+      "displayKey": "no",
       "description": [
         {
           "projectStatement": "[Client.Company] requires a full website build to support your digital growth strategy. ",          
